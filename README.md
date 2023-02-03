@@ -12,6 +12,8 @@ Just download the repository and start by running an npm install. After that add
 
 Down below is a demonstration video of the program.
 
+[Uploading Retail Store demo.webm…]()
+
 ## License
 
 This project uses an MIT license.
