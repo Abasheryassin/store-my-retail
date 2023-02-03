@@ -12,7 +12,7 @@ Just download the repository and start by running an npm install. After that add
 
 Down below is a demonstration video of the program.
 
-[Uploading Retail Store demo.webm…]()
+[Retail Store demo.webm](https://user-images.githubusercontent.com/115291688/216511038-0691d805-2caa-4caf-93ea-455ad65873ed.webm)
 
 ## License
 
